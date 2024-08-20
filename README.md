@@ -1,4 +1,4 @@
-# Procesamiento-de-Imagenes-Sadosky2024
+# Procesamiento de Imagenes con redes neuronales
 
 ## Modalidad: 
 Virtual sincrónica, 4 semanas de duración, 2 horas de clase semanales
